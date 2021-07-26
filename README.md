@@ -2,5 +2,5 @@
 new repository
 hi friends
 i am not a robo
-i lika java developement work
+i like java developement work
 perticular about backend developement
